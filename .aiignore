@@ -1,0 +1,8 @@
+/laradock/
+/laradock/.env
+/vendor
+/storage
+/bootstrap
+/public
+/node_modules
+.git
